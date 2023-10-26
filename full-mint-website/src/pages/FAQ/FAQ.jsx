@@ -18,8 +18,8 @@ export default function Store(){
          <br/>Buy an existing Shushii from OpenSea.</p>
 
          <h2>How do I know which Shushii I am minting?</h2>
-         <p>You won't know until after the minting process. 
-            The collection is intentionally concealed to prevent founders or others from acquiring the rarest NFTs. 
+         <p>You won't know until after the minting process is complete. 
+            The collection is intentionally concealed to prevent people from acquiring the rarest NFTs. 
             This is achieved by an on-chain random function, 
             ensuring everyone has an equal chance to mint the rarest Shushii. Good luck!</p>
          
