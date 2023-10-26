@@ -74,8 +74,10 @@ export default function About(){
                     #Shushii4Peace
                     </h3>
                    
-                    <button as="a" href="https://opensea.io/collection/shushii"
+                      <a href="https://opensea.io/collection/shushii">
+                    <button 
                      > View on OpenSea</button> 
+                    </a>
         </div>
         </div>
         <Footer/>
