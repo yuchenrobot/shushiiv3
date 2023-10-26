@@ -32,7 +32,7 @@ export default function Store(){
          <p>We have a significant possibility of increasing the price of Shushii, which will 
             depend on sales and market conditions. 
             However, we will definitely NOT lower the public mint price below 
-            0.02 ETH. </p>
+            0.02 ETH. The price will remain unchanged until further notice. </p>
 
          <h2>What can I do with Shushii?</h2>
          <p>For your personal, non-commercial use, 
