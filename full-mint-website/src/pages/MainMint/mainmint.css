@@ -100,8 +100,8 @@ input::-webkit-inner-spin-button {
     display: none;
 }
 
-.result h3{
-    line-height:1rem;}
+.result{
+    line-height:0.8rem;}
 
 @media screen and (max-width: 720px)  {
     .socialmedia{
