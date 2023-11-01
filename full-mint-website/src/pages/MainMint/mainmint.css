@@ -82,6 +82,7 @@ input::-webkit-inner-spin-button {
   text-align: center;
   user-select: none;
   min-width: 4rem;
+  line-height:3rem;
   -webkit-user-select: none;
   touch-action: manipulation;
 }
