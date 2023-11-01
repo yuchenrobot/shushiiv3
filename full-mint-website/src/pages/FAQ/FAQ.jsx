@@ -24,9 +24,8 @@ export default function Store(){
             ensuring everyone has an equal chance to mint the rarest Shushii. Good luck!</p>
          
         <h2>How much does a Shusii cost?</h2>
-        <p>The public mint price is 0.02 ETH. 
-         The whitelist price will be disclosed when you become a whitelist member. 
-         Join our Discord for more information.</p>
+        <p>The public mint price is 0.02 ETH.<br/>
+         The WL mint price is 0.015 ETH.</p>
 
          <h2>Will the price change?</h2>
          <p>We have a significant possibility of increasing the price of Shushii, which will 
