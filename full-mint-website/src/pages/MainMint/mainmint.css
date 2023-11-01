@@ -100,6 +100,9 @@ input::-webkit-inner-spin-button {
     display: none;
 }
 
+.result h3{
+    line-height:1rem;}
+
 @media screen and (max-width: 720px)  {
     .socialmedia{
         display:flex;
