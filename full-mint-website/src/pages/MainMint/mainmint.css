@@ -16,6 +16,7 @@
 
 .words h2{
     font-size: 2rem;
+    line-height: 0.8rem;
 }
 
 .words h3{
@@ -41,7 +42,7 @@
 }
 
 .mint ul li{
-    margin: 1rem;
+    margin: 0.5rem 0.5rem 0rem 0.5rem;
 
 }
 
@@ -100,6 +101,12 @@ input::-webkit-inner-spin-button {
     display: none;
 }
 
+.result button{
+    margin-top: 0.6rem;
+}
+.result .words{
+    line-height: 0.4rem;
+}
 
 @media screen and (max-width: 720px)  {
     .socialmedia{
