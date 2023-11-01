@@ -101,7 +101,7 @@ input::-webkit-inner-spin-button {
 }
 
 .result{
-    line-height:0.8rem;}
+    backgroun-color: red;}
 
 @media screen and (max-width: 720px)  {
     .socialmedia{
