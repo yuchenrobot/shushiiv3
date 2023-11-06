@@ -28,7 +28,7 @@ const NavBar = ()=>{
 
          </li>
           <li>
-            <a href="https://discord.gg/zJjNmJ3s5G" target="_SEJ" rel="noreferrer">
+            <a href="https://discord.gg/QrDYtdgJSw" target="_SEJ" rel="noreferrer">
                 <img src={discord} alt='discord'/>
             </a>
             </li>
