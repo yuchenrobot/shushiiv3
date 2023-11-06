@@ -77,7 +77,7 @@ const [getNetwork, setCorrectNetwork] = useState(false);
                 <h1 >SHUSHII</h1>
                
                 <h2>Mint Price: 0.02 ETH </h2>
-		 <h2>Mint Date: Nov11 8am (UTC) </h2>
+		 <h2>Mint Date: Dec.01 8am (UTC) </h2>
                
                 <p>
                  * You must be connected to mint *
