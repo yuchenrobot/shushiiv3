@@ -27,6 +27,9 @@ export default function Store(){
         <p>The public mint price is 0.02 ETH.<br/>
          The WL mint price is 0.01 ETH.</p>
 
+        <h2>What is the royalties of Shushii?</h2>
+        <p>3%</p>
+
          <h2>Will the price change?</h2>
          <p>We have a significant possibility of increasing the price of Shushii, which will 
             depend on sales and market conditions. 
