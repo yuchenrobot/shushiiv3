@@ -1,0 +1,75 @@
+
+  
+.faq{
+  text-align: center;
+  font-family: inherit;
+  background-color: #3e5c6f;
+  min-height: 100vh;
+  padding-top: 4rem;
+
+}
+
+.faq .main-title{
+  text-align: left;
+  font-family: "Concert One";
+}
+
+.faq_container{
+    width:50%; 
+    height:auto;
+    border:none;
+    border-radius:30px;
+    display: inline-block;
+    align-self: center;
+    text-align: left;
+    padding: 2rem;
+    font-family: "Rubik";
+  }
+
+  .faq_container h2{
+
+    font-size:2.2rem ;
+    color: azure;
+  }
+
+  .faq_container h1{
+
+    text-align: left;
+    font-size:3rem;
+    padding-top: 2.6rem;
+    color: #fffcfc;
+    text-shadow:1px 1px 3px black;
+  
+  }
+
+  .faq_container p{
+
+    font-size:1.2rem ;
+    color: azure;
+  }
+
+  a {
+    color: rgb(245, 205, 62);
+    text-decoration: none; /* no underline */
+  }
+  
+  @media screen and (max-width: 720px) {
+    .faq_container{
+      width: 80%;
+    }
+    .faq_container h1{
+
+      font-size:1.5rem ;
+    }
+
+    .faq_container h2{
+
+      font-size:1.2rem ;
+    }
+  
+    .faq_container p{
+  
+      font-size:1rem ;;
+    }
+
+  }

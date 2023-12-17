@@ -1,0 +1,17 @@
+.App {
+  font-family: "Concert One", "Playpen Sans","Rubik";
+  color: black;
+  overflow: scroll;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  overflow:scroll;
+
+}
+
+
+

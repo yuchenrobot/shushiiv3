@@ -1,0 +1,355 @@
+.about{
+    text-align: center;
+    font-family: inherit;
+    background-color: #6da3c4;
+    min-height: 100vh;
+    padding-top: 8rem;
+  }
+
+.collection{
+  background-color: #3e5c6f;
+}
+
+.inner {
+  display: flex;
+}
+
+.swipeleft img {
+  width: 20%;
+}
+
+
+.roadmap{
+  padding-bottom: 3rem;
+  background-color: #3e5c6f;
+}
+
+.rewards{
+  padding-bottom: 3rem;
+  background-color: #3e5c6f;
+  
+}
+.roadmap_container{
+    padding: 2rem;
+    font-family: "Rubik";
+    display: inline-grid;
+    justify-content: center;  
+    gap: 4rem; 
+    grid-template-columns: auto auto auto;
+
+  }
+.rewards1{
+    display: flex;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    justify-content:space-evenly;
+    
+  }
+
+  .rewards2{
+    width: 30%;
+    border-radius: 1rem;
+    padding: 2rem;
+    height: auto;
+    background-color: aliceblue;
+    box-shadow: black 1px 1px 2px 1px;
+
+  }
+
+
+  .rewards2 h3{
+    font-family: "rubik";
+    font-size: 1.4rem;
+
+  }
+
+  .rewards2 h4{
+    font-family: "rubik";
+    font-size: 1.2rem;
+
+  }
+
+
+.phase{
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 1rem;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: black 1px 1px 2px 1px;
+}
+
+ 
+.a1{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.a3 img{
+    width: 30rem;
+}
+.a4{
+    display: flex;
+    justify-content: space-evenly;
+}
+.a4 .container{
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
+.a4 img{
+    background-color: #fff;
+    padding: 0.4rem;
+    width: 12rem;
+    border-radius: 50%;
+}
+
+
+.a2{
+    width:580px; 
+    height:480px;
+    overflow: scroll;
+}
+
+.a2 h2{
+  font-family: "Rubik";
+  color: rgb(241, 241, 241);
+  padding:5rem 2rem 3rem 2rem  ;
+}
+.white{
+  font-family: "Rubik";
+  color: rgb(241, 241, 241);
+}
+
+.collection h2{
+    font-family: "Rubik";
+    color: rgb(241, 241, 241);
+    padding:1rem 2rem 1rem 2rem  ;
+}
+
+
+button {
+    font-family: inherit;
+    background-color: #fbc93e;;
+    border: 2px solid #0e0900;
+    border-radius: 20px;
+    box-shadow: #b27316 4px 4px 0 0;
+     color: #000000;
+     cursor: pointer;
+     display: inline-block;
+     font-size: 1.5rem;
+     line-height: 3rem;
+     user-select: none;
+     min-width: 4rem;
+     -webkit-user-select: none;
+     touch-action: manipulation;
+   }
+   
+button:hover {
+     background-color: #fff;
+   }
+   
+ button:active {
+     box-shadow: #422800 2px 2px 0 0;
+     transform: translate(2px, 2px);
+   }
+   
+
+  .main-title{
+    text-align: center;
+    font-size:3rem;
+    padding-top: 2.6rem;
+    color: #fffcfc;
+    text-shadow:1px 1px 3px black;
+  }
+  
+  .content {
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .content .content-overlay {
+    border-radius: 50%;
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+  }
+  
+  .content:hover .content-overlay{
+    opacity: 1;
+  }
+  
+
+  .content-details {
+    position: absolute;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+  }
+  
+  .content:hover .content-details{
+    top: 50%;
+    left: 50%;
+    opacity: 1;
+  }
+  
+  .content-details h3{
+    color: #fff;
+    text-transform: uppercase;
+  }
+
+  .utility{
+    width:100%; 
+    height:auto;
+
+  }
+
+  .utility h2{
+    font-family: "Rubik";
+    color: rgb(241, 241, 241);
+    padding:0rem 2rem 3rem 2rem ;
+    text-align: center;
+  }
+  
+  .utility-container{
+    max-width:880px ;
+    display: inline-block;
+    justify-content: center;
+ 
+  }
+  
+  .utility img{
+    width:8%;
+  }
+
+  .how-to-wl{
+    padding-bottom: 4rem;
+  }
+
+  .how-to-wl Button{
+    margin-top: 2rem;
+  }
+
+  .rewards h2{
+    padding: 3rem 1rem 0rem 1rem;
+  }
+  
+  
+  @media screen and (max-width: 720px)  {
+    .a1{
+        padding: 0.2rem;
+        flex-direction: column;
+    }
+
+    .a3 img{
+        width: 30%;
+    }
+
+.a4{
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+    .a4 img{
+        background-color: #fff;
+        padding: 0.2rem;
+        width: 80%;
+        border-radius: 50%;
+    }
+
+    .a2{
+        width:90%; 
+        height:auto;
+        border-radius:30px;
+        align-self: center;
+    }
+    
+  
+  
+    .a2 h2{
+        font-size: 1rem;
+        padding:1rem 3rem 1rem 3rem;
+    }
+
+    .white{
+      font-size: 1rem;
+
+    }
+    
+    
+    .a2 button {
+         font-size: 1rem;
+         margin-bottom: 2rem;
+         line-height: 2.2rem;
+       }
+       
+      button{
+          font-size: 1rem;
+          line-height: 2.2rem;
+       }
+        
+    
+      .main-title{
+        font-size:1.8rem;
+        line-height: 0.2rem;
+      }
+      
+      
+      .content-details h3{
+        font-size: 0.8rem;
+      }
+
+      .roadmap_container{
+        padding: 2rem;
+        font-family: "Rubik";
+          display: inline-block;
+          justify-content:center;
+         
+        }
+
+
+
+        .rewards2 h3{
+          font-family: "rubik";
+          font-size: 1rem;
+      
+        }
+      
+        .rewards2 h4{
+          font-family: "rubik";
+          font-size: 0.8rem;
+      
+        }
+
+    
+    .phase{
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 1rem;
+      padding: 1rem;
+      font-size: 0.8rem;
+      margin: 1rem;
+      text-align: center;
+    }
+
+    }
+
+ 

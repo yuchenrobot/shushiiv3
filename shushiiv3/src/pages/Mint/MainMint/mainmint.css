@@ -1,0 +1,132 @@
+.mainmint{
+padding: 3rem 1rem 3rem 1rem;
+background-color: aliceblue;
+width: 780px;
+display: inline-block;
+height: auto;
+border-radius: 30px;
+box-shadow: black 1px 1px 3px 1px;
+
+}
+
+.words h1{
+    font-size: 3rem;
+}
+
+.words h2{
+    font-size: 2rem;
+}
+
+.words h3{
+    font-size: 1.5rem;
+    color: #7aaa4b;
+}
+.words p{
+    font-size: 1.2rem;
+    color:#D6517D;
+    padding: 0.2rem;
+}
+
+
+
+ul{
+    padding: 0.2rem;
+    display: flex;
+    font-family:inherit ;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.plmint ul li{
+    margin: 0.5rem 0.5rem 0rem 0.5rem;
+
+}
+
+
+
+
+input{
+    font-family: inherit;
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    text-align: center;
+    width: 6rem;
+
+}
+
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+
+ button{
+    margin-top: 0.6rem;
+}
+
+.result .words{
+    line-height: 0.4rem;
+}
+
+@media screen and (max-width: 720px)  {
+ 
+.mainmint{
+        width:90%; 
+        height:90%;
+        padding: 1rem;
+        overflow: hidden;
+    }
+
+.words h1{
+    font-size: 2rem;
+}
+
+.words h2{
+    font-size: 1.5rem;
+}
+.words h3{
+    font-size: 1.2rem;
+    color: #7aaa4b;
+}
+.words p{
+    font-size: 1rem;
+    color:#D6517D;
+    line-height: 0.9rem;
+}
+
+
+.plmint ul{
+    padding: 0.2rem;
+    display: flex;
+    font-family:inherit ;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.plmint ul li{
+    margin: 0.5rem;
+
+}
+
+
+input{
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 0.5rem;
+    text-align: center;
+    width: 4rem;
+
+}
+
+
+
+
+  
+}

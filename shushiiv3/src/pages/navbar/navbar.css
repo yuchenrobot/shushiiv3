@@ -1,0 +1,101 @@
+.navbar
+{
+    width:100%;
+    height:10%;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+   font-family: "Rubik";
+   background-color:rgba(255, 255, 255, 0.892)    ;
+   position: fixed;
+   z-index: 1;
+   box-shadow: black 0px 0px 5px 0px;
+
+}
+
+
+
+.menu{
+  margin-right: 3rem;
+}
+.socials, .menu{
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+    
+
+}
+.socials li:hover, .menu li:hover{
+  transform: scale(1.1);
+}
+
+.navbar img
+{
+ width: 50px;
+ margin-top: 0.8rem;
+}
+
+ ul {
+    list-style-type: none;
+   }
+
+.mobile_btn{
+    display: none;
+}
+
+.socials li, .menu li
+{
+    padding: 0.8rem;
+}
+
+.socials li a, .menu li a
+{
+  font-size: 2rem;
+    text-decoration: none;
+    color:black;
+    margin: 0.4rem;
+}
+
+@media screen and (max-width: 720px) {
+ 
+    .mobile_btn {
+      display: block;
+      position: absolute;
+      right: 2rem;
+      cursor: pointer;
+      z-index: 10; 
+    }
+
+    .socials {
+      display: none;
+    }
+
+    .menu {
+        display: flex;
+        position: fixed;
+        flex-direction: column;
+        justify-content: center;
+        left: -100%;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 100vh;
+        background-color: white;
+        z-index: 10;
+        transition: left 1s;
+        margin:0;
+      }
+      .active {
+        left: 0;
+      }
+    
+      .navbar a {
+        font-size: 2rem;
+      }
+
+      .mobile_btn img{
+     width:45px;
+    }
+
+}
