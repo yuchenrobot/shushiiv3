@@ -32,7 +32,7 @@ export default function About(){
 
         <div className="a2">
                  <h2 className="white">
-                   "Shushii" is a collection of 8,888 NFTs. 
+                   "Shushii" is a collection of 4,444 NFTs. 
                    It embodied a spirit of rebellion, shattering stereotypes, 
                    challenging biases, and fighting against discrimination. 
                    Each Shushii NFT featured a finger over the lips, as if hushing the noise of negativity. 
