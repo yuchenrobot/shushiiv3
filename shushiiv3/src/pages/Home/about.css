@@ -24,11 +24,6 @@
   background-color: #3e5c6f;
 }
 
-.rewards{
-  padding-bottom: 3rem;
-  background-color: #3e5c6f;
-  
-}
 .roadmap_container{
     padding: 2rem;
     font-family: "Rubik";
@@ -250,10 +245,6 @@ button:hover {
     margin-top: 2rem;
   }
 
-  .rewards h2{
-    padding: 3rem 1rem 0rem 1rem;
-  }
-  
   
   @media screen and (max-width: 720px)  {
     .a1{
@@ -325,30 +316,6 @@ button:hover {
           justify-content:center;
 
         
-        }
-
-         .rewards1{
-            display: block;
-            padding: 1rem 2rem 1rem 2rem;
-            
-          }
-
-          .rewards2{
-            width: 100%;
-            margin-bottom: 1rem;
-          }
-
-
-        .rewards2 h3{
-          font-family: "rubik";
-          font-size: 1rem;
-      
-        }
-      
-        .rewards2 h4{
-          font-family: "rubik";
-          font-size: 0.8rem;
-      
         }
 
     
