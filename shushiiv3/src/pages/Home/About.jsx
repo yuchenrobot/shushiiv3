@@ -14,7 +14,6 @@ import m3 from "../../assets/Images/m3.png"
 import m4 from "../../assets/Images/m4.png"
 import m5 from "../../assets/Images/m5.png"
 import sticker1 from "../../assets/Images/sticker1.PNG"
-import sticker2 from "../../assets/Images/sticker2.PNG"
 import sticker3 from "../../assets/Images/sticker3.PNG"
 import sticker4 from "../../assets/Images/sticker4.PNG"
 import './about.css'
