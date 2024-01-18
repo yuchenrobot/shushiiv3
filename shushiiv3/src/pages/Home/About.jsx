@@ -124,7 +124,7 @@ export default function About(){
 <h3 class="main-title"> How to Get WL? </h3>
   
   <h2 className="white">Increase your chances by participating in the 
-   <br/>giveaways shared in the community or complet quests on Zealy.</h2>
+   <br/>games in the community or complet quests on Zealy.</h2>
    <a href="https://zealy.io/c/shushii/questboard">
                <button 
                 >Complete Quests to get WL</button> 
@@ -194,8 +194,6 @@ export default function About(){
        <h2 className="white">
        <img src={sticker1} alt="sticker1"/> Shushii Holders get to participate in the Trait Hunting game and have a chance to win $20 in ETH weekly.<br/>
 
-        <img src={sticker2} alt="sticker2"/> Shushii Holders will automatically unlock the Web3 Job Board channel.<br/>
-
         <img src={sticker3} alt="sticker3"/>  Shushii Holders holding more than 10+ Shushiis will receive a specially designed package, including a t-shirt, hat, stickers, and pins.<br/>
 
         <img src={sticker4} alt="sticker4"/> After all Shushiis are minted, Shushii Holders will receive free courses on how to create your own NFT in the most cost-effective way.<br/>
@@ -203,27 +201,6 @@ export default function About(){
        </div>
        </div>
     
-       <div className='rewards'>
-           <h2 className='main-title'>REWARDS</h2>
-           <h2 className='white'>
-           Shushii is the perfect community for you to get some passive income.  </h2>
-
-          <div className='rewards1'>
-          <div className="rewards2">
-          <h3 >  Code Words </h3>
-         <h4 > Whenever @Silent-Freaks  says 'SHUSHII' (in caps) in the chat, respond with '4PEACE' (in caps). 
-          The first person say it back will receive $10 in ETH.</h4>
-          <a href='https://discord.gg/BsUbSdtucQ'><button>Join Discord</button></a>
-          </div>
-
-          <div className="rewards2">
-          <h3 >  Contests</h3>
-          <h4 >Complete Zealy quests and you have a chance to win WL Spots, 
-            Airdrop, $5-$100 in ETH depending on your ranking.</h4>
-          <a href='https://zealy.io/c/shushii/questboard'><button>View on Zealy</button></a>
-           </div>
-           
-           </div>
             
            </div>
     </div>
