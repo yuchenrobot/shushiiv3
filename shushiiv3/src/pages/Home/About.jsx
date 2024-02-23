@@ -31,7 +31,7 @@ export default function About(){
 
         <div className="a2">
                  <h2 className="white">
-                   "Shushii" is a collection of 5,000 NFTs. 
+                   "Shushii" is a collection of 2,000 NFTs. 
                    It embodied a spirit of rebellion, shattering stereotypes, 
                    challenging biases, and fighting against discrimination. 
                    Each Shushii NFT featured a finger over the lips, as if hushing the noise of negativity. 
@@ -193,7 +193,7 @@ export default function About(){
        <h2 className="white">
        <img src={sticker1} alt="sticker1"/> Shushii Holders get to participate in the Trait Hunting game and have a chance to win $20 in ETH weekly.<br/>
 
-        <img src={sticker3} alt="sticker3"/>  Shushii Holders holding more than 10+ Shushiis will receive a specially designed package, including a t-shirt, hat, stickers, and pins.<br/>
+        <img src={sticker3} alt="sticker3"/>  Shushii Holders will have a chance to receive a specially designed package, including a t-shirt, hat, stickers, and pins.<br/>
 
         <img src={sticker4} alt="sticker4"/> After all Shushiis are minted, Shushii Holders will receive free courses on how to create your own NFT in the most cost-effective way.<br/>
        </h2>
