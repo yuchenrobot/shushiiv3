@@ -45,7 +45,7 @@ const [getNetwork, setCorrectNetwork] = useState(false);
         )
 
        try{ const nftTx = await contract.publicMint(BigNumber.from(mintAmount),{
-        value: ethers.utils.parseEther((0.02* mintAmount).toString()),
+        value: ethers.utils.parseEther((0.00* mintAmount).toString()),
        });
       
 				console.log(
@@ -63,7 +63,7 @@ const [getNetwork, setCorrectNetwork] = useState(false);
      };
 
         const handleIncrement=()=>{
-        if(mintAmount>=10)return;
+        if(mintAmount>=5)return;
         setMintAmount(mintAmount+1);
      };
 
@@ -72,7 +72,7 @@ const [getNetwork, setCorrectNetwork] = useState(false);
            
             <div className='words'>
         
-                <h2>Public Mint: 0.02 ETH </h2>
+                <h2>OG Mint: Free </h2>
                
                 <p>
                  You must be connected to mint
