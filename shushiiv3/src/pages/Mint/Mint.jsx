@@ -14,7 +14,7 @@ function Home() {
         <div  className="Home">
         <div className='_Mint'>
           <h2 className='main-title'>Phase 1 </h2>
-          <h2 className='white'> Mint Date: TBA</h2>
+          <h2 className='white'> Mint Date: March 2nd</h2>
           </div>
           <MainMint accounts={accounts} setCurrentAccount={setCurrentAccount}
            getNetwork={getNetwork} setCorrectNetwork={setCorrectNetwork}/>   
