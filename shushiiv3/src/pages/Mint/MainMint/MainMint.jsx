@@ -63,7 +63,7 @@ const [getNetwork, setCorrectNetwork] = useState(false);
      };
 
         const handleIncrement=()=>{
-        if(mintAmount>=5)return;
+        if(mintAmount>=2)return;
         setMintAmount(mintAmount+1);
      };
 
