@@ -43,15 +43,7 @@ const NavBar = ()=>{
             </li>
        </ul>
    
-        
-        <ul className={nav? ['menu','active'].join(' '):['menu']}>
-            <li>
-            <Link to="/" onClick={closeMobileMenu}> Shushii </Link>
-            </li>
-        </ul>
-        <div onClick={()=> setNav(!nav)} className='mobile_btn'>
-        {nav ? <img src={close} alt='close'/> : <img src={hambutn} alt='hambutn'/>}
-        </div>
+
     </nav>
     </header>
 
