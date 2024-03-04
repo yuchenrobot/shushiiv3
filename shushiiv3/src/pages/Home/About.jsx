@@ -127,7 +127,7 @@ Post a tweet about Shushii, tag @Shushii_NFT, and include the hashtag #Shushii4P
 
 Invite 3 friends to our discord.<br/>
 
-Share your Proof<br/></h2>
+</h2>
    <a href="https://discord.gg/BsUbSdtucQ">
                <button 
                 >Share My Proof</button> 
