@@ -122,85 +122,71 @@ export default function About(){
        <div className="how-to-wl">
 <h3 class="main-title"> How to Get WL? </h3>
   
-  <h2 className="white">Increase your chances by participating in the 
-   <br/>games in the community or complet quests on Zealy.</h2>
-   <a href="https://zealy.io/c/shushii/questboard">
+  <h2 className="white">
+Post a tweet about Shushii, tag @Shushii_NFT, and include the hashtag #Shushii4Peace. We will follow those accounts with great posts.<br/>
+
+Invite 3 friends to our discord.<br/>
+
+Share your Proof<br/></h2>
+   <a href="https://discord.gg/BsUbSdtucQ">
                <button 
-                >Complete Quests to get WL</button> 
+                >Share My Proof</button> 
                </a>
   </div>
 
-      <div className="roadmap">
-       <h3 className="main-title">ROADMAP</h3>
-       <div className='roadmap_container'>
-        <div className="phase">
-        <h2>Phase 1</h2>
-        <h3>
-        Free Mint Spots: 20<br/>
-        Public Mint Price: 0.02 ETH<br/>
-        WL Mint Price:0.01 ETH
-        </h3>
 
-        </div>
-        <div className="phase">
-        <h2>Phase 2</h2>
-        <h3>
-        Public Mint Price: 0.021 ETH<br/>
-        WL Mint Price:0.012 ETH
-        </h3>
-
-        </div>
-        <div className="phase">
-        <h2>Phase 3</h2>
-        <h3>
-        Public Mint Price: 0.022 ETH<br/>
-        WL Mint Price:0.014 ETH
-        </h3>
-
-        </div>
-        <div className="phase">
-        <h2>Phase 4</h2>
-        <h3>
-        Public Mint Price: 0.023 ETH<br/>
-        WL Mint Price:0.016 ETH
-        </h3>
-
-        </div>
-        <div className="phase">
-        <h2>Phase 5</h2>
-        <h3>
-        Public Mint Price: 0.024 ETH<br/>
-        WL Mint Price:0.018 ETH
-        </h3>
-
-        </div>
-        <div className="phase">
-        <h2>Phase 6</h2>
-        <h3>
-        Public Mint Price: 0.025 ETH<br/>
-        WL Mint Price:0.02 ETH
-        </h3>
-
-        </div>
-
-
-         </div>
-         
-         </div>
        <div className="utility">
        <h3 class="main-title">UTILITIES</h3>
        <div className="utility-container">
        <h2 className="white">
-       <img src={sticker1} alt="sticker1"/> Shushii Holders get to participate in the Trait Hunting game and have a chance to win $20 in ETH weekly.<br/>
+       <img src={sticker1} alt="sticker1"/> Shushii Holders get to participate in the Trait Hunting game and have a chance to win $50 in SOL. <br/>
 
-        <img src={sticker3} alt="sticker3"/>  Shushii Holders will have a chance to receive a specially designed package, including a t-shirt, hat, stickers, and pins.<br/>
+        <img src={sticker3} alt="sticker3"/>  Shushii Holders will have a chance to receive a specially designed package, including a t-shirt, hat, stickers, and pins, and our NFTs will be integrated with social media to provide our holders with real-life benefits that they can use, such as product discounts, cupons, etc.<br/>
 
         <img src={sticker4} alt="sticker4"/> After all Shushiis are minted, Shushii Holders will receive free courses on how to create your own NFT in the most cost-effective way.<br/>
        </h2>
        </div>
        </div>
     
+              
+        <div >
             
+        <div className="faq">
+       <div className='faq_container'>
+       <h1 className="main-title">Frequently Asked Questions</h1><br/>
+        
+
+         <h2>How do I know which Shushii I am minting?</h2>
+         <p>You won't know until after your minting process is complete. 
+            The collection is intentionally concealed to prevent people from acquiring the rarest NFTs. 
+            This is achieved by an on-chain random function, 
+            ensuring everyone has an equal chance to mint the rarest Shushii. Good luck!</p><br/>
+
+
+        <h2>Do you engage in cross-collaboration?</h2>
+         <p>Yes, we do. You can find our community on <a href="https://www.alphabot.app/_/shushii_nft">Alphabot</a>, <a href="https://www.subber.xyz/shushii">Subber</a> and <a href="https://atlas3.io/project/shushii">Atlas3</a>.</p><br/>
+
+
+        <h2>What are the benefits of holding a shushii?</h2>
+         <p>Shushii Holders enjoy various benefits within our community. Firstly, they have the opportunity to participate in the Trait Hunting game, where they stand a chance to win $20 in ETH on a weekly basis. Additionally, Shushii Holders automatically gain access to the exclusive Web3 Job Board channel. Those holding 10 or more Shushiis are entitled to receive a specially designed package, which includes a t-shirt, hat, stickers, and pins.
+
+Furthermore, once all Shushiis are minted, Shushii Holders will be eligible for complimentary courses on creating their own NFTs in the most cost-effective way. These perks contribute to a vibrant and engaging experience for our Shushii community members.</p><br/>
+         
+         
+
+         <h2>What can I do with Shushii?</h2>
+         <p>For your personal, non-commercial use, 
+            you have full flexibility. For commercial use, 
+            our team grants holders an unlimited, worldwide, exclusive license to use, copy, and display the purchased artwork for 
+            creating derivative works based on it. 
+            Commercial use examples include producing and selling merchandise (T-shirts, hats, etc.) featuring copies of the artwork.</p><br/>
+
+         
+
+         </div>
+         </div>
+         
+         </div>
     </div>
    
 
