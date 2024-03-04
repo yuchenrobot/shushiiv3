@@ -4,15 +4,10 @@ import etherscan from "../../assets/social-media-icons/etherscan.png";
 import twitter from "../../assets/social-media-icons/twitter.png";
 import discord from "../../assets/social-media-icons/discord.png";
 import opensea from "../../assets/social-media-icons/opensea.png";
-import hambutn from "../../assets/navbar/hambutn.png"
-import close from "../../assets/navbar/close.png"
 
-import {Link} from 'react-router-dom';
 
 
 const NavBar = ()=>{
-    const [nav, setNav] = useState(false);
-    const closeMobileMenu=()=>setNav(false);
 
     return(
        <header>
