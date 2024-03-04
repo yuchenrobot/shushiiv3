@@ -16,8 +16,6 @@ function App() {
   <NavBar/>
        <Routes>
        <Route path='/' element={<Home/>}/>
-       <Route path="/Mint" element={<Mint />}/>
-       <Route path="/faq" element={<FAQ />}/>
       </Routes>
      <Footer/>
 </HashRouter>
