@@ -166,12 +166,6 @@ Share your Proof<br/></h2>
         <h2>Do you engage in cross-collaboration?</h2>
          <p>Yes, we do. You can find our community on <a href="https://www.alphabot.app/_/shushii_nft">Alphabot</a>, <a href="https://www.subber.xyz/shushii">Subber</a> and <a href="https://atlas3.io/project/shushii">Atlas3</a>.</p><br/>
 
-
-        <h2>What are the benefits of holding a shushii?</h2>
-         <p>Shushii Holders enjoy various benefits within our community. Firstly, they have the opportunity to participate in the Trait Hunting game, where they stand a chance to win $20 in ETH on a weekly basis. Additionally, Shushii Holders automatically gain access to the exclusive Web3 Job Board channel. Those holding 10 or more Shushiis are entitled to receive a specially designed package, which includes a t-shirt, hat, stickers, and pins.
-
-Furthermore, once all Shushiis are minted, Shushii Holders will be eligible for complimentary courses on creating their own NFTs in the most cost-effective way. These perks contribute to a vibrant and engaging experience for our Shushii community members.</p><br/>
-         
          
 
          <h2>What can I do with Shushii?</h2>
