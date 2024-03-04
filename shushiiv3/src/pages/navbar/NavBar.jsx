@@ -1,4 +1,4 @@
-import {React, useState} from 'react';
+import {React} from 'react';
 import './navbar.css'
 import etherscan from "../../assets/social-media-icons/etherscan.png";
 import twitter from "../../assets/social-media-icons/twitter.png";
