@@ -2,8 +2,6 @@ import './App.css';
 import React from 'react';
 import {HashRouter} from 'react-router-dom';
 import Home from './pages/Home/Home.jsx';
-import Mint from './pages/Mint/Mint.jsx';
-import FAQ from './pages/FAQ/FAQ.jsx';
 import { Routes, Route} from 'react-router-dom';
 import NavBar from './pages/navbar/NavBar.jsx';
 import Footer from './pages/footer/Footer.jsx';
